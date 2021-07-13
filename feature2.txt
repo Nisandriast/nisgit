@@ -1,1 +1,2 @@
 feature 2 initial commit
+feature 2 second commit
